@@ -1,17 +1,17 @@
 # Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Jalon bailey
 
-**Name of your app** is an app that... [TODO] 
+Campus Flow is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -20,10 +20,22 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+app 1 instagram
+ the message feature of the app 
+ video call
+app 2 discord 
+ the abiltity to mass message people 
+ event set up
+
+app 3 handshake 
+integration of a calendar for meetings
+ease of sorting events
+ 
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+no chanlleges incountered 
 
 ## License
 
